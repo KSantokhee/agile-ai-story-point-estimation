@@ -1,0 +1,12 @@
+agile-ai-story-point-estimation/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── data/
+│   ├── issues.csv
+│   ├── epics.csv
+│   └── teams.csv
+├── src/
+│   └── run_experiment.py
+├── requirements.txt
+└── README.md
